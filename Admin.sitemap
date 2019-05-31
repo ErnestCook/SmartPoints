@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Teller/MemberLookup.aspx" title="Member Lookup"  description="" >
+    <siteMapNode url="~/Member/ACUTransactionDetails.aspx" title="Transactions Details"  description="" />
+    <siteMapNode url="~/Teller/PointRedemption.aspx" title="Redeem Points"  description="" />
+    <siteMapNode url="~/Teller/GrantPoints.aspx" title="Grant Points"  description="" />
+
+    <siteMapNode url="~/Admin/ManageRoles.aspx" title="Manage Roles"  description="" />
+      <siteMapNode url="~/About.aspx" title="About"  description="Shows the helpdesk information and program rules" />
+
+  </siteMapNode>
+</siteMap>

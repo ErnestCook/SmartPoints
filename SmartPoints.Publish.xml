@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://localhost/SP" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="showError.aspx" publishTime="04/26/2011 21:13:44" />
+    <file relUrl="Admin.sitemap" publishTime="08/04/2011 17:04:32" />
+    <file relUrl="Admin/Auditor.aspx" publishTime="07/18/2011 18:29:49" />
+    <file relUrl="Admin/ManageUserAccounts.aspx" publishTime="07/19/2011 18:34:57" />
+    <file relUrl="Global.asax" publishTime="03/20/2011 19:49:46" />
+    <file relUrl="Site.Master" publishTime="07/27/2011 15:18:14" />
+    <file relUrl="Styles/Site.css" publishTime="07/27/2011 14:54:34" />
+    <file relUrl="About.aspx" publishTime="08/04/2011 17:07:29" />
+    <file relUrl="bin/SmartPoints.xml" publishTime="08/04/2011 17:05:02" />
+    <file relUrl="Member.sitemap" publishTime="08/03/2011 09:14:48" />
+    <file relUrl="Admin/ManageRoles.aspx" publishTime="07/19/2011 18:35:24" />
+    <file relUrl="Admin/ManageUsers.aspx" publishTime="04/26/2011 11:59:04" />
+    <file relUrl="Account/RecoverPassword.aspx" publishTime="03/20/2011 19:49:50" />
+    <file relUrl="Styles/datePicker.css" publishTime="03/23/2011 21:55:44" />
+    <file relUrl="Teller/PointRedemption.aspx" publishTime="07/27/2011 15:09:56" />
+    <file relUrl="Account/Login.aspx" publishTime="03/20/2011 19:49:48" />
+    <file relUrl="Teller.sitemap" publishTime="08/04/2011 17:03:56" />
+    <file relUrl="Scripts/jquery-ui-1.8.11.custom.min.js" publishTime="03/22/2011 21:37:30" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="03/20/2011 19:50:02" />
+    <file relUrl="Admin/Web.config" publishTime="07/19/2011 17:05:25" />
+    <file relUrl="Images/Alliance_logo.png" publishTime="03/27/2011 13:51:00" />
+    <file relUrl="Teller/GrantPoints.aspx" publishTime="07/27/2011 15:09:35" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="03/20/2011 19:49:48" />
+    <file relUrl="Styles/images/ui-icons_222222_256x240.png" publishTime="07/18/2011 20:10:07" />
+    <file relUrl="TellerAdmin.sitemap" publishTime="08/04/2011 17:04:10" />
+    <file relUrl="Teller/MemberLookup.aspx" publishTime="07/27/2011 14:56:26" />
+    <file relUrl="Account/MemberVerify.aspx" publishTime="04/03/2011 11:37:52" />
+    <file relUrl="Account/Web.config" publishTime="03/20/2011 19:49:52" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="03/20/2011 19:49:48" />
+    <file relUrl="Member/ACUTransactionDetails.aspx" publishTime="07/27/2011 14:48:48" />
+    <file relUrl="Web.config" publishTime="07/19/2011 17:15:10" />
+    <file relUrl="bin/SmartPoints.dll" publishTime="08/04/2011 17:05:02" />
+    <file relUrl="Index.aspx" publishTime="04/14/2011 21:53:36" />
+    <file relUrl="Admin/ManageUsers.aspx.cs" publishTime="04/26/2011 11:59:04" />
+    <file relUrl="Images/welcome_winter2010.png" publishTime="03/27/2011 18:07:52" />
+    <file relUrl="Images/deleteDot16.jpg" publishTime="03/28/2011 12:24:54" />
+    <file relUrl="notAuthorized.aspx" publishTime="07/03/2011 13:30:38" />
+    <file relUrl="bin/SmartPoints.pdb" publishTime="08/04/2011 17:05:02" />
+    <file relUrl="App_LocalResources/home.xml" publishTime="03/28/2011 08:57:12" />
+    <file relUrl="Styles/jquery-ui-1.8.11.custom.css" publishTime="04/03/2011 18:42:03" />
+    <file relUrl="Images/Q1_2011_Invest.png" publishTime="03/27/2011 18:06:26" />
+    <file relUrl="Default.sitemap" publishTime="08/04/2011 17:04:46" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="03/20/2011 19:50:06" />
+  </publishProfile>
+</publishData>

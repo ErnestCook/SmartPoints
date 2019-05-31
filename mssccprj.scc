@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[SmartPoints.vbproj]
+SCC_Aux_Path = "\\bigfiles\SourceSafe"
+SCC_Project_Name = "$/SmartPoints.root/SmartPoints/SmartPoints", RJZAAAAA
+
+[SmartPoints.sln]
+SCC_Aux_Path = "\\bigfiles\SourceSafe"
+SCC_Project_Name = "$/SmartPoints.root/SmartPoints", OJZAAAAA
